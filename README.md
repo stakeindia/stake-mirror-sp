@@ -23,7 +23,7 @@ El **sitio oficial de Stake** es [https://stake.com](https://stake1038.com/?c=bi
 
 Los **espejos de Stake** son copias exactas del sitio principal, pero con diferentes dominios. Estos links se actualizan constantemente para evitar bloqueos. Aquí te dejamos algunos enlaces funcionales:  
 
-- 🌐 **Espejo 1**: [https://stake1038.com/?c=bidbonus](https://stake7.com) *(Actualizado en 2024)*  
+- 🌐 **Espejo 1**: [https://stake1038.com/](https://stake1038.com/?c=bidbonus) *(Actualizado en 2024)*  
 - 🌐 **Espejo 2**: [https://stakebets.io](https://stake1038.com/?c=bidbonus) *(Alternativa confiable)*  
 
 Estos enlaces permiten ingresar a tu cuenta normalmente, sin perder datos ni fondos.  
